@@ -49,7 +49,7 @@ fast-groq-agent/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fast-groq-agent.git
+git clone https://github.com/KishanG02/React_agent.git
 ```
 
 ```bash
